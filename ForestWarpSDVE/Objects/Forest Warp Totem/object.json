@@ -1,0 +1,53 @@
+{
+  "Name": "Forest Warp Totem",
+  "Description": "Warp directly to the forest. Consumed on use.",
+  "Category": "Crafting",
+  "Edibility": -300,
+  "Price": 20,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 388,
+        "Count": 10
+      },
+      {
+        "Object": 390,
+        "Count": 5
+      },
+      {
+        "Object": 92,
+        "Count": 5
+      }
+    ],
+    "IsDefault": true
+  },
+
+  "NameLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+    // "zh": "",
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+    // "zh": "",
+  }
+}

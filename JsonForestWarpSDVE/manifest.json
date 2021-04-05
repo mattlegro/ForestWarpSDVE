@@ -1,0 +1,24 @@
+{
+  "Name": "[JA] Forest Warp Totem for SDVE",
+  "Author": "DK",
+  "Version": "1.0.0",
+  "Description": "Adds Forest Warp Totem craftable using Json Assets.",
+  "UniqueID": "DK.JAForestWarpSDVE",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:???" ],
+  "ContentPackFor": 
+  {
+    "UniqueID": "spacechase0.JsonAssets"
+  },
+  "Dependencies": 
+  [
+    {
+      "UniqueID": "spacechase0.JsonAssets",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "FlashShifter.StardewValleyExpandedALL",
+      "IsRequired": true
+    }
+  ]
+}

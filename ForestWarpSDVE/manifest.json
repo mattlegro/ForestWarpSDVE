@@ -1,0 +1,21 @@
+{
+  "Name": "DK's Forest Warp Totem",
+  "Author": "DK",
+  "Version": "1.0.0",
+  "Description": "Functionalizes Warp Totem Added with JA.",
+  "UniqueID": "DK.ForestWarp",
+  "EntryDll": "ForestWarp.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:???" ],
+  "Dependencies": 
+  [
+    {
+      "UniqueID": "DK.JA.ForestWarp",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "FlashShifter.StardewValleyExpandedALL",
+      "IsRequired": true
+    }
+  ]
+}
